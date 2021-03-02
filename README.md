@@ -2,7 +2,7 @@
 
 INRICH is a pathway analysis tool for genome wide association studies, designed for detecting enriched association signals of LD-independent genomic regions within biologically relevant gene sets.
 
-INRICH was developed by Phil Hyoun Lee in the lab of Shaun Purcell at the Center for Human Genetic Research of Massachusetts General Hospital, Harvard Medical School, and the Broad Institute.
+INRICH was developed by Phil H. Lee, Shaun Purcell, and Colm O'Dushlaine in the lab of Shaun Purcell at the Center for Human Genetic Research of Massachusetts General Hospital, Harvard Medical School, and the Broad Institute.
 
 For full documentation, please visit https://atgu.mgh.harvard.edu/inrich/
 
