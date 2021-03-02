@@ -8,6 +8,6 @@ For full documentation, please visit https://atgu.mgh.harvard.edu/inrich/
 
 Functions
 
-Conduct pathway analysis on any type of genomic variation data, including but not limited to SNPs, CNVs, genes, as well as their combination.
+<li>Conduct pathway analysis on any type of genomic variation data, including but not limited to SNPs, CNVs, genes, as well as their combination.</li>
 Run the positional clustering test of genomic intervals, which can be used to detect genomic regions with multiple independent, non-randomly clustered risk variants.
 Perform pathway analysis on multiple lists of associated genomic regions, which can be used for detecting functional gene sets with pleiotropic effects across related disorders or for a comparative study of pathway analysis across different datasets.
